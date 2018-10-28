@@ -1,0 +1,8 @@
+/.gradle/
+/bin/
+.settings/
+build/
+.project
+.classpath
+src/main/resources/application-local.properties
+src/main/resources/application-heroku.properties

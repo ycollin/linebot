@@ -1,0 +1,1 @@
+web: java -jar build/libs/linebot-0.1.0.jar --server.port=$PORT
